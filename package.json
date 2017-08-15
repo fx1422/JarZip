@@ -1,0 +1,35 @@
+{
+  "name": "zjq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "cache": "^1.1.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean": "^0.3.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-replace": "^0.6.1",
+    "gulp-tinypng": "^1.0.2",
+    "gulp-uglify": "^3.0.0",
+    "imagemin": "^5.3.1",
+    "imagemin-gifsicle": "^5.2.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-optipng": "^5.2.1",
+    "imagemin-svgo": "^5.2.2",
+    "jshint": "^2.9.5",
+    "replace": "^0.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
